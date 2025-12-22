@@ -1,5 +1,5 @@
 Link - http://localhost:8080/quotes
-Usage - 1.All data in quotes page is populated from DB and data Trade-In price column keeps changing randomly every 10 seconds, Data is displayed using Websocket.
-2.User can enter number of shares in 'Request Shares' column and click on subscribe button.
-3.After calculations 'No Of Shares' will be deducted from Quotes pages and all share data will be added to User's page in My 'Portfolio option'
-3.Similar process is followed when user sells their shares from my portfolio page.
+Usage - 1. All data in quotes page is populated from DB and data in Trade-In price column keeps changing randomly every 10 seconds, All Data is displayed using Websocket.
+2. User can enter number of shares in 'Request Shares' column and click on subscribe button.
+3. After calculations 'No Of Shares' will be deducted from Quotes pages and all share data will be added to User's page in My 'Portfolio option'
+4. Similar process is followed when user sells their shares from my portfolio page.
