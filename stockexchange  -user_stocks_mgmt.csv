@@ -1,0 +1,5 @@
+id,company_name,current_price,dividend_yield,eps,exchange,last_updated,market_cap,pe_ratio,sector,ticker_symbol,volume,trd_in_price,no_of_shares
+1,"Reliance Industries Ltd",2857.5,0.0035,100.35,NSE,NULL,19200000000000,28.4,Energy,RELIANCE,8200000,2862.27,10050
+2,"Tata Consultancy Services",3844.56,0.012,123.4,NSE,NULL,14200000000000,31.2,"IT Services",TCS,4500000,3848.74,10000
+3,"Infosys Ltd",1612.28,0.015,60.45,NSE,NULL,6750000000000,26.8,"IT Services",INFY,6100000,1610.58,10000
+4,"HDFC Bank Ltd",1544.02,0.01,79.1,NSE,NULL,11700000000000,19.5,Banking,HDFCBANK,9800000,1541.65,10000

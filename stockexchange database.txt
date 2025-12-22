@@ -1,0 +1,4 @@
+CREATE DATABASE stockexchange;
+use stockexchange;
+show databases;
+show tables;
